@@ -1,8 +1,8 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
-class Human 
+// немножко не готово, базарю завтра дохуя докину
+class Human  
 {
 public: // модификатор доступа который даёт доступ к данным везде.
     int age;
